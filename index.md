@@ -5,3 +5,6 @@
 ```python
 a = max(3,4,12)
 ```
+- [ ] Turn on GitHub pages
+- [ ] Outline my portofolio
+- [ ] Introduce myself to the world
